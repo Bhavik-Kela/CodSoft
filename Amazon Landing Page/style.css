@@ -1,0 +1,283 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.nav-whole {
+    background-color: #0f1111;
+    width: 100%;
+    height: 60px;
+    margin: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+    
+}
+.first-text{
+    color: gray;
+    font-size: 0.8rem;
+    margin-left: 20px;
+    border: 2px solid transparent;
+
+}
+.secondbox{
+    color: whitesmoke;
+    font-size: 1.2rem;
+    margin-left: 15px;
+}
+.search{
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(187, 153, 29);
+    border-radius: 3px;
+    width: 45px;
+
+}
+.thirdbox{
+    display: flex;
+    height: 38px;
+    margin-left: 40px;
+    width: 80%;
+font-size: 1.2rem;
+
+
+}
+.thirdbox select{
+    border-top-left-radius: 4px;
+    border-bottom-left-radius:4px;
+    width:50px;
+    text-align: center;
+    background-color: whitesmoke;
+    color: black;
+    
+}
+.search-bar{
+    font-size: 1.1rem;
+    width: 750px;
+}
+.fourthbox{
+    display: flex;
+    margin-left: 30px;
+    color: whitesmoke;
+    margin-top: 8px;
+    border-color: 2px solid black;
+
+}
+.fourthbox select option {
+    background-color: #0f1111;
+    color: whitesmoke;
+}
+.alag{
+    background-color: #0f1111;
+}
+.fourthbox i{
+    margin-top: 5px;
+}
+.fifthbox {
+    width: 100px;
+}
+.firstone{
+    color: gray;
+    margin-left: 30px;
+}
+.secondone{
+    display: flex;
+    font-size: 1.2rem;
+    color: whitesmoke;
+    margin-left: 30px;
+
+}.sixthbox{
+
+}
+.firstOne{
+    color: gray;
+    margin-left: 26px;
+}
+.secondOne{
+    color: whitesmoke;
+    font-size: 1.2rem;
+    margin-left: 26px;
+    display: flex;
+    width: 80px;
+}
+.seventhbox{
+    display: flex;
+    margin-left: 20px;
+    color: whitesmoke;
+    margin-top: 13px;
+    
+}
+.thirdOne{
+    margin-left: 3px;
+    ;
+}
+.second-nav{
+    background-color: #222f3d;
+    height: 44px;
+    color: whitesmoke;
+    display: flex;
+    align-items: center;
+}
+.first-bottom{
+    display:flex;
+    margin: 12px;
+}
+.menu{
+    margin-left: 3px;
+}
+.third-bottom{
+    margin-left: 25px;
+}
+.Amazon-mini{
+    width: 115px;
+}
+.fourth-bottom{
+    margin:25px;
+}
+.Best-Sellers{
+    display: flex;
+    width: 80px;
+}
+    
+
+.sixth-bottom{
+    margin: 25px;
+    display: flex;
+
+}
+.Mobiles{
+    display: flex;
+}
+.today-deals{
+    width: 100px;
+}
+.eight-bottom{
+    margin-left: 20px;
+}
+.ninth-bottom{
+    margin-left: 20px;
+}
+.tenth-bottom{
+    margin-left: 25px;
+}
+.eleventh-bottom{
+    margin-left: 25px;
+}
+.callme{
+    width: 100px;
+    margin: 25px;
+    height: 35px;
+
+}
+.imgsrc{
+    background-image: url("acm.jpg");
+    width:100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.table{
+    margin-top: 530px;
+    margin-bottom: 300px;
+    margin-left: 3px;
+    /*border: 2px solid black;*/
+    width: 23%;
+    height: 370px;
+    background-color: white
+    
+}
+.boat{
+    background-image: url("boat.jpg");
+    width: 100%;
+    height: 76%;
+    background-repeat: no-repeat;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.link1 a{
+    text-decoration: none;color: rgb(73, 104, 104);
+    margin-left: 3px;
+}
+.home{
+    background-image: url("home.jpg");
+    width: 75%;
+    height: 76%;
+    background-repeat: no-repeat;
+    margin-left: 45px;
+    margin-top: 30px;
+
+}
+.appliances{
+    background-image: url("appliances.jpg");
+    width: 70%;
+    height: 76%;
+    background-repeat: no-repeat;
+    margin-left: 45px;
+    margin-top: 30px;
+    
+}
+.brands{
+    background-image: url("watches.jpg");
+    width: 70%;
+    height: 76%;
+    background-repeat: no-repeat;
+    margin-left: 45px;
+    margin-top: 30px;
+    
+}
+.link2 a{
+    text-decoration: none;color: rgb(73, 104, 104);
+    margin-left: 3px;
+    margin-top: 10px;
+}
+.link3 a{
+    text-decoration: none;color: rgb(73, 104, 104);
+    margin-left: 3px;
+}
+.link4 a{
+    text-decoration: none;
+    margin-left: 3px;
+}
+.pehla{
+    background-color: cadetblue;
+    color: whitesmoke;
+    text-align: center;
+}
+.dusra{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 25px;
+}
+.reload{
+    text-decoration: none;
+}
+
+
+.border:hover{
+    border: 2px solid white;
+}
+#select{
+    background-color: #0f1111;
+    color: whitesmoke;
+    border: 2px solid transparent;
+}
+#selected{
+    background-color: #222f3d;
+    color: whitesmoke;
+    border: 2px solid transparent;
+}
+
+
+
+
+
+
+    
+    
+
+
+    
